@@ -8,7 +8,7 @@ spec:
   source:
     type: Git
     git:
-      uri: https://github.com/dshirley-redhat/gitbucket.git
+      uri: https://github.com/davecore82/gitbucket.git
   strategy:
     type: Docker                      
     dockerStrategy:

@@ -13,7 +13,7 @@ spec:
   project: cluster-config
   source:
     path: 02-cluster-config/03-cluster-monitoring/cluster-monitoring-config
-    repoURL: https://github.com/dshirley-redhat/gitops-ocp-admins.git
+    repoURL: https://github.com/davecore82/gitops-ocp-admins.git
     targetRevision: main
   syncPolicy:
     automated: {}

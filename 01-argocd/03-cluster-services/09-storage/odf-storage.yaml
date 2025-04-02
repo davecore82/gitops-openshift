@@ -13,7 +13,7 @@ spec:
   project: cluster-services
   source:
     path: 03-cluster-services/09-storage
-    repoURL: https://github.com/dshirley-redhat/gitops-ocp-admins.git
+    repoURL: https://github.com/davecore82/gitops-ocp-admins.git
     targetRevision: main
   syncPolicy:
     automated: {}
